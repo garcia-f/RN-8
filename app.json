@@ -1,4 +1,7 @@
 {
   "name": "my-app",
-  "slug": "my-app"
+  "slug": "my-app",
+  "plugins": [
+    "expo-router"
+  ]
 }
